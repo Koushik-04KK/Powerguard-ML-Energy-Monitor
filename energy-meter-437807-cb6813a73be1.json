@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "energy-meter-437807",
+  "private_key_id": "cb6813a73be1da27b66f460f7acfe152f9910d9e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWFnFguPDjgRjZ\njLv2GaK/nVvWuNJGU6vxaseh//kGX84qbrnSFeqh4J8lCMqq0dyf83HrfG14wJEY\nTao2n2gMKJcGqVrzkZ32hQxhPVH7Ty27aY9M4Aqwgju3s/i8NmEW9gzEoFJK+Zci\nzJaQayMVtE7sEaZsI7AV95aJ9Kegseu8NFaFg0NksFAEz8hjzuGPEZi0PRDZKZgm\nDV9JR0uLg+mhv38YsLL+ktaK5+dWVeg52so1I8yv4H3DGORaxxrzsUw55v8LxzTv\nEpKWBCnlrg1dOcHobRdbALQpdCng5OM3l1v2Or3ziaaIJFRW4oYR6uDO+sotah6D\n+uxJ3T4PAgMBAAECggEAG/G1U4UFrwcfIZO0xmxq3uIA+9JcuAtHNULVKKMgc8w2\nPTmouEWzaPUd221TWYqnu+/AiJam32Jwo0sikvCprx9D31MPE8iHutwmVTGg2CcU\noWgnk/GRKPWcKoqrm+g+h2BkeEHeRqUKLOOm1NZMhRJnqXlVpLs1H8OVJbqxKqXx\nho1HkVSVh0e2WTRVxPZk+fj8wB69b2M72OV+FD6Yo+nU0DwX1vpu+dpEvUzC5WrI\nFyFkahw+xl2KJB0uRSTGJM+h26XHRXN9JsFwXXYoShBgqEeDb7z1iWOEBKr/JnCI\nfD+OIwfwN194aulRK5g/z9iVNOcL4N8DMHy9dFrZkQKBgQDq5kuikq1HViEmlVNQ\nh7niSZgEwIUfmEWKU8rn0iC3+HSclzEFOZ4wa7DvfCkCYWNbWp6diiClkOxccn6P\naev+Z2e9UlOIWXxdQqBQWNAOAjMO4E6Gskn7UqpcYXOx9qCx823J3p9NZqf4jeY8\nm70vIstZCDjxgtjeRXVTrbtLhwKBgQDpUY9/tXZdOMm/sr19LXydLohPW4xc7LfJ\nL7MR/jfRRv4pTBaMiIbvVmdoANMttmGP1lzHJI2s5LUhRnzz3CpeK0C62RpBHxTy\ncL7bS59VIY7DiIkAZg6ueMTeYm5sXEZ6pGoPd1HDd4iTPen6LSmlk+LHPuJNlL6O\nwYqirqhrOQKBgQCnznFF6IbFKXBxQcfNBcjzMSPacTYoxf0Xvph7V49sHaAgpZmt\nY+XwLV6vFwGs46m4/1nErYJ5BLj1qg1jooWmrnRbuU5XX6YKcahY/blT6JpVDETM\n0N0tH3b4m92sysUtmvtZdSJUhvuEAsrxjUhvPeoK5mbXkWQgFXqllrzwTQKBgBVb\naOZIxwfrfdQ1WVEPC9wbeVDCUYvkA0LAQgUAnz1h4TwIgfvlN2zLHPYRNUN28WFI\nPv/fobRUzxu3pxJvcdVi4i74VoXlgXZbyayrNG+Hfdj6M4g8z1U7KtIscm0q2Sy6\nxhaaVnqtA2xu+27yGWDVs6mHYRG27uaEYttXX4VJAoGAIuMd1W4+Lm40POFkJQ9l\n7i2DgOzb0Q3kYoIYDgiPadsD39ltWTxZ/0x1xYgx4JmE0xZgwxgXFrBiwGFXZS21\nIxb/JzJ2DIntRtRIRLmJXRn3E1LdaW4iZpJsRyj96C6gUPYTNCN8+KzjSitVR1a1\nanUUJdyqB83YnwCSMQjXLDE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "energy-meter@energy-meter-437807.iam.gserviceaccount.com",
+  "client_id": "109884034920414905649",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/energy-meter%40energy-meter-437807.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
